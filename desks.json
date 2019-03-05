@@ -1,38 +1,27 @@
 {
     "size": {
-        "x": 5,
-        "y": 5
+        "x": 2,
+        "y": 7
     },
     "desks": {
-        "10": { "name": "1-chair square", "coach": "", "layout": { "position": { "x": 0, "y": 0 }, "rotation": 0, "chairs": 1, "shape": "square" } },
-        "11": { "name": "2-chair square", "coach": "", "layout": { "position": { "x": 1, "y": 0 }, "rotation": 0, "chairs": 2, "shape": "square" } },
-        "12": { "name": "3-chair square", "coach": "", "layout": { "position": { "x": 2, "y": 0 }, "rotation": 0, "chairs": 3, "shape": "square" } },
-        "13": { "name": "4-chair square", "coach": "", "layout": { "position": { "x": 3, "y": 0 }, "rotation": 0, "chairs": 4, "shape": "square" } },
+        "11": { "name": "Czechitas 01 - 02", "coach": "Tomáš", "layout": { "position": { "x": 0, "y": 0 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
+        "12": { "name": "Czechitas 03 - 04", "coach": "Tomáš", "layout": { "position": { "x": 1, "y": 0 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
 
-        "20": { "name": "4-chair circle", "coach": "", "layout": { "position": { "x": 2, "y": 4 }, "rotation": 0, "chairs": 4, "shape": "circle" } },
-        "21": { "name": "2-chair circle", "coach": "rotated and shifted", "layout": { "position": { "x": 4, "y": 4, "x_shift": -0.3, "y_shift": -0.3 }, "rotation": 45, "chairs": 2, "shape": "circle" } },
+        "21": { "name": "Czechitas 05 - 06", "coach": "Tomáš", "layout": { "position": { "x": 0, "y": 1 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
+        "22": { "name": "Czechitas 07 - 08", "coach": "Tomáš", "layout": { "position": { "x": 1, "y": 1 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
 
-        "30": { "name": "1-chair rectangle", "coach": "", "layout": { "position": { "x": 0, "y": 3 }, "rotation": 0, "chairs": 1, "shape": "rectangle" } },
-        "31": { "name": "2-chair rectangle", "coach": "", "layout": { "position": { "x": 1, "y": 3 }, "rotation": 0, "chairs": 2, "shape": "rectangle" } },
-        "32": { "name": "3-chair rectangle", "coach": "", "layout": { "position": { "x": 2, "y": 3 }, "rotation": 0, "chairs": 3, "shape": "rectangle" } },
-        "33": { "name": "4-chair rectangle", "coach": "", "layout": { "position": { "x": 3, "y": 3 }, "rotation": 0, "chairs": 4, "shape": "rectangle" } },
-        "34": { "name": "5-chair rectangle", "coach": "", "layout": { "position": { "x": 0, "y": 4 }, "rotation": 0, "chairs": 5, "shape": "rectangle" } },
-        "35": { "name": "6-chair rectangle", "coach": "", "layout": { "position": { "x": 1, "y": 4 }, "rotation": 0, "chairs": 6, "shape": "rectangle" } },
+        "31": { "name": "Czechitas 09 - 10", "coach": "Michal", "layout": { "position": { "x": 0, "y": 2 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
+        "32": { "name": "Czechitas 11 - 12", "coach": "Michal", "layout": { "position": { "x": 1, "y": 2 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
 
-        "40": { "name": "1-chair rectangle long", "coach": "", "layout": { "position": { "x": 0, "y": 1 }, "rotation": 0, "chairs": 1, "shape": "rectangle_long" } },
-        "41": { "name": "2-chair rectangle long", "coach": "", "layout": { "position": { "x": 1, "y": 1 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
-        "42": { "name": "3-chair rectangle long", "coach": "", "layout": { "position": { "x": 2, "y": 1 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
-        "43": { "name": "4-chair rectangle long", "coach": "", "layout": { "position": { "x": 3, "y": 1 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
-        "44": { "name": "5-chair rectangle long", "coach": "", "layout": { "position": { "x": 0, "y": 2 }, "rotation": 0, "chairs": 5, "shape": "rectangle_long" } },
-        "45": { "name": "6-chair rectangle long", "coach": "", "layout": { "position": { "x": 1, "y": 2 }, "rotation": 0, "chairs": 6, "shape": "rectangle_long" } },
-        "46": { "name": "7-chair rectangle long", "coach": "", "layout": { "position": { "x": 2, "y": 2 }, "rotation": 0, "chairs": 7, "shape": "rectangle_long" } },
-        "47": { "name": "8-chair rectangle long", "coach": "", "layout": { "position": { "x": 3, "y": 2 }, "rotation": 0, "chairs": 8, "shape": "rectangle_long" } },
+        "41": { "name": "Czechitas 13 - 14", "coach": "Michal", "layout": { "position": { "x": 0, "y": 3 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
+        "42": { "name": "Czechitas 15 - 16", "coach": "Michal", "layout": { "position": { "x": 1, "y": 3 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
 
-        "50": { "name": "6-chair hexagon", "coach": "", "layout": { "position": { "x": 4, "y": 0 }, "rotation": 0, "chairs": 6, "shape": "hexagon" } },
+        "51": { "name": "Czechitas 17 - 18", "coach": "Anna", "layout": { "position": { "x": 0, "y": 4 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
+        "52": { "name": "Czechitas 19 - 20", "coach": "Anna", "layout": { "position": { "x": 1, "y": 4 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
 
-        "60": { "name": "3-chair half hexagon", "coach": "", "layout": { "position": { "x": 4, "y": 1 }, "rotation": 0, "chairs": 3, "shape": "hexagon_half" } },
+        "61": { "name": "Czechitas 21 - 22", "coach": "Honza", "layout": { "position": { "x": 0, "y": 5 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
+        "62": { "name": "Czechitas 23 - 24", "coach": "Honza", "layout": { "position": { "x": 1, "y": 5 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } },
 
-        "70": { "name": "6-chair ellipse", "coach": "", "layout": { "position": { "x": 4, "y": 3 }, "rotation": 0, "chairs": 6, "shape": "ellipse" } },
-        "71": { "name": "2-chair ellipse", "coach": "", "layout": { "position": { "x": 4, "y": 2 }, "rotation": 0, "chairs": 2, "shape": "ellipse" } }
+        "71": { "name": "Czechitas 25 - 26", "coach": "Anna/Honza", "layout": { "position": { "x": 0, "y": 6 }, "rotation": 0, "chairs": 2, "shape": "rectangle_long" } }
     }
 }
