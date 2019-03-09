@@ -4,25 +4,25 @@
         "y": 7
     },
     "desks": {
-        "11": { "name": "Czechitas 01", "coach": "", "layout": { "position": { "x": 0, "y": 0 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
-        "12": { "name": "Czechitas 02", "coach": "", "layout": { "position": { "x": 1, "y": 0 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "11": { "name": "Czechitas 01", "coach": "", "layout": { "position": { "x": 0, "y": 0 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "12": { "name": "Czechitas 02", "coach": "", "layout": { "position": { "x": 1, "y": 0 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
 
-        "21": { "name": "Czechitas 03", "coach": "", "layout": { "position": { "x": 0, "y": 1 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
-        "22": { "name": "Czechitas 04", "coach": "", "layout": { "position": { "x": 1, "y": 1 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "21": { "name": "Czechitas 03", "coach": "", "layout": { "position": { "x": 0, "y": 1 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "22": { "name": "Czechitas 04", "coach": "", "layout": { "position": { "x": 1, "y": 1 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
 
-        "31": { "name": "Czechitas 05", "coach": "", "layout": { "position": { "x": 0, "y": 2 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
-        "32": { "name": "Czechitas 06", "coach": "", "layout": { "position": { "x": 1, "y": 2 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "31": { "name": "Czechitas 05", "coach": "", "layout": { "position": { "x": 0, "y": 2 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "32": { "name": "Czechitas 06", "coach": "", "layout": { "position": { "x": 1, "y": 2 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
 
-        "41": { "name": "Czechitas 07", "coach": "", "layout": { "position": { "x": 0, "y": 3 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
-        "42": { "name": "Czechitas 08", "coach": "", "layout": { "position": { "x": 1, "y": 3 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "41": { "name": "Czechitas 07", "coach": "", "layout": { "position": { "x": 0, "y": 3 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "42": { "name": "Czechitas 08", "coach": "", "layout": { "position": { "x": 1, "y": 3 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
 
-        "51": { "name": "Czechitas 09", "coach": "", "layout": { "position": { "x": 0, "y": 4 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
-        "52": { "name": "Czechitas 10", "coach": "", "layout": { "position": { "x": 1, "y": 4 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "51": { "name": "Czechitas 09", "coach": "", "layout": { "position": { "x": 0, "y": 4 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "52": { "name": "Czechitas 10", "coach": "", "layout": { "position": { "x": 1, "y": 4 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
 
-        "61": { "name": "Czechitas 11", "coach": "", "layout": { "position": { "x": 0, "y": 5 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
-        "62": { "name": "Czechitas 12", "coach": "", "layout": { "position": { "x": 1, "y": 5 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "61": { "name": "Czechitas 11", "coach": "", "layout": { "position": { "x": 0, "y": 5 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "62": { "name": "Czechitas 12", "coach": "", "layout": { "position": { "x": 1, "y": 5 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
 
-        "71": { "name": "Czechitas 13", "coach": "", "layout": { "position": { "x": 0, "y": 6 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
-        "72": { "name": "Czechitas 14", "coach": "", "layout": { "position": { "x": 1, "y": 5 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } }
+        "71": { "name": "Czechitas 13", "coach": "", "layout": { "position": { "x": 0, "y": 6 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
+        "72": { "name": "Czechitas 14", "coach": "", "layout": { "position": { "x": 1, "y": 5 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } }
     }
 }
