@@ -17,6 +17,6 @@
         "42": { "name": "Czechitas 08", "coach": "", "layout": { "position": { "x": 1, "y": 3 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
 
         "51": { "name": "Czechitas 09", "coach": "", "layout": { "position": { "x": 0, "y": 4 }, "rotation": 0, "chairs": 4, "shape": "rectangle_long" } },
-        "52": { "name": "Czechitas 10", "coach": "", "layout": { "position": { "x": 1, "y": 4 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } },
+        "52": { "name": "Czechitas 10", "coach": "", "layout": { "position": { "x": 1, "y": 4 }, "rotation": 0, "chairs": 3, "shape": "rectangle_long" } }
     }
 }
